@@ -1,13 +1,12 @@
-numpy>=1.26,<2.0
+numpy==1.26.4
 opencv-python-headless==4.11.0.86
 protobuf==4.25.3
-mediapipe==0.10.35
-tensorflow==2.20.0
+mediapipe==0.10.14
+tensorflow==2.15.0
 transformers
 torch
 torchvision
 pillow
 ultralytics
-gradio==4.44.0
 accelerate
 sentencepiece
