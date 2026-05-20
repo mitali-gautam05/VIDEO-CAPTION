@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+outputs/
+
+# ML model files
+*.pt
+*.task
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
