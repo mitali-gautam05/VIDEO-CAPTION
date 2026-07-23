@@ -1,6 +1,6 @@
 # Silent Video Understanding AI
 
-> An end-to-end multimodal AI system that analyzes silent videos using Computer Vision, Motion Analysis, Object Detection, and Natural Language Generation — and automatically generates contextual captions.
+> An end-to-end multimodal AI system that analyzes silent videos using Computer Vision, Motion Analysis, Object Detection and Natural Language Generation — and automatically generates contextual captions.
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org)
