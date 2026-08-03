@@ -191,7 +191,7 @@ Push your code to a Hugging Face Space with SDK set to **Gradio** and it will au
 OpenCV splits the uploaded video into individual frames at a defined sampling rate.
 
 **Step 2 — Object Detection**
-YOLOv8 runs inference on each frame, identifying objects, people, and key subjects with bounding boxes and confidence scores.
+YOLOv8 runs inference on each frame, identifying objects, people and key subjects with bounding boxes and confidence scores.
 
 **Step 3 — Motion Analysis**
 MediaPipe's Pose Landmarker maps body keypoints across frames and computes motion direction, speed, and activity patterns.
